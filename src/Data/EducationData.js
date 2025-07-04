@@ -2,23 +2,23 @@ const languagesDone = [
     
     {
         name: 'Java',
-        percentDone: 75
+        // percentDone: 75
     },
     {
         name: 'C++',
-        percentDone: 60
+        // percentDone: 60
     },
     {
         name: 'React Js',
-        percentDone: 70
+        // percentDone: 70
     },
     {
         name: 'Spring Boot',
-        percentDone: 70
+        // percentDone: 70
     },
     {
         name: 'Java Script',
-        percentDone:65
+        // percentDone:65
     }
 ]
 const EducationData={
